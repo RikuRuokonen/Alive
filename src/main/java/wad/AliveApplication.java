@@ -11,14 +11,16 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/RikuRuokonen/Alive";
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/RikuRuokonen/Alives";
     }
+    
+    //hello
 
     public static String herokuUrl() {
-        return "";
+        return "https://shrouded-coast-59053.herokuapp.com/";
     }
 }
